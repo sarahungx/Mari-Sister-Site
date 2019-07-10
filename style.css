@@ -1,0 +1,69 @@
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  color: #FFFFFF;
+  font-size: 90px;
+
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color:#FFFFFF;
+  font-size: 40px;
+
+}
+
+h2 {
+  color:#FFFFFF;
+  font-family: 'Literata', serif;
+  font-size: 45px;
+}
+
+img{
+  border-radius: 10%
+}
+
+/* h3 {
+  color:#BFB4FF;
+  font-family: 'Literata', serif;
+}
+
+h4 {
+  color:#BFB4FF;
+  font-family: 'Literata', serif;
+}
+
+h5 {
+  color:#BFB4FF;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h6 {
+  color:#BFB4FF;
+  font-family: 'Open Sans Condensed', sans-serif;
+} */
+
+
+
+img {
+   height: 300px;
+    width: 500px;
+}
+
+.correct-ratio {
+  object-fit: cover;
+}
+
+body {background-color: pink;}
+/* div {
+background-color: #FOF8FF
+} */
+
+/* .heading-main {
+  background-color: blue;
+} */
+div{
+  text-align: center;
+  border: 10px solid white;
+  border-radius: 10px;
+}
